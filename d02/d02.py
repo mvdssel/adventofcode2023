@@ -1,8 +1,8 @@
 from functools import reduce
 import operator
 
-INPUT = 'd02/input-1-test.txt'
-INPUT = 'd02/input-1.txt'
+INPUT = 'd02/input-test.txt'
+INPUT = 'd02/input.txt'
 
 bag = {
     'red': 12,
